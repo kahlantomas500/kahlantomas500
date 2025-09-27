@@ -46,8 +46,7 @@
 
 ### 📫 تواصل معي:
 
-- Telegram: [@kahlan_dev](https://t.me/kahlan_dev)
-- GitHub: [github.com/kahlan-dev](https://github.com/kahlan-dev)
+- GitHub: [https://github.com/kahlantomas500/kahlantomas500.git]
 - Portfolio: *(قريبًا)*
 
 ---
